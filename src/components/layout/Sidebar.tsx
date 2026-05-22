@@ -2,7 +2,7 @@
 
 import { useDashboardStore } from "@/store/dashboardStore";
 import { cn } from "@/components/ui/Card";
-import { LayoutDashboard, BarChart3, Truck, Package, Settings2, Map } from "lucide-react";
+import { LayoutDashboard, BarChart3, Settings2 } from "lucide-react";
 
 export function Sidebar() {
   const { activeTab, setActiveTab } = useDashboardStore();
@@ -10,10 +10,7 @@ export function Sidebar() {
   const tabs = [
     { id: "overview", label: "Resumen Ejecutivo", icon: LayoutDashboard },
     { id: "costos", label: "Costo de Servir", icon: BarChart3 },
-    { id: "transporte", label: "Transporte", icon: Truck },
-    { id: "almacenamiento", label: "Almacenamiento", icon: Package },
     { id: "simulador", label: "Simulador Escenarios", icon: Settings2 },
-    { id: "mapa", label: "Mapa de Red", icon: Map },
   ] as const;
 
   return (

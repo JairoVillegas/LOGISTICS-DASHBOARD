@@ -61,11 +61,8 @@ export default function DashboardPage() {
             )}
 
             {activeTab === 'costos' && (
-              <div className="grid grid-cols-2 gap-6">
+              <div className="space-y-6">
                 <CostoPorEtapaHorizontal data={data.asignacion} />
-                <div className="text-[var(--muted)] p-8 border border-[var(--border)] rounded-xl flex items-center justify-center">
-                  Más gráficos de costos en progreso...
-                </div>
               </div>
             )}
 
@@ -73,11 +70,8 @@ export default function DashboardPage() {
               <SimuladorEscenarios />
             )}
 
-            {['transporte', 'almacenamiento', 'mapa'].includes(activeTab) && (
-              <div className="p-12 text-center text-[var(--muted)] border border-dashed border-[var(--border)] rounded-xl">
-                Sección {activeTab} en construcción...
-              </div>
-            )}
+
+
           </div>
         </main>
       </div>

@@ -14,7 +14,7 @@ export interface DashboardFilters {
 
 export interface DashboardState {
   filters: DashboardFilters;
-  activeTab: 'overview' | 'costos' | 'transporte' | 'almacenamiento' | 'simulador' | 'mapa';
+  activeTab: 'overview' | 'costos' | 'simulador';
   setFilter: <K extends keyof DashboardFilters>(key: K, value: DashboardFilters[K]) => void;
   resetFilters: () => void;
   setActiveTab: (tab: DashboardState['activeTab']) => void;
