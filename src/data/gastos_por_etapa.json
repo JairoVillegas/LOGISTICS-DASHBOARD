@@ -1,0 +1,3362 @@
+[
+  {
+    "etapa": "Primario",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 1,
+    "gastoCopMiles": 1411765.0949469649
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 1,
+    "gastoCopMiles": 103576.69505242504
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 1,
+    "gastoCopMiles": 1054495.7664088244
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 1,
+    "gastoCopMiles": 1338207.8841267226
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 1,
+    "gastoCopMiles": 338911.0912696742
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 1,
+    "gastoCopMiles": 412552.2761784
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 1,
+    "gastoCopMiles": 534175.3919177165
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 1,
+    "gastoCopMiles": 26697.641842574987
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 1,
+    "gastoCopMiles": 53350.672403665216
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 1,
+    "gastoCopMiles": 30191.83065188065
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 2,
+    "gastoCopMiles": 1423884.1732358271
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 2,
+    "gastoCopMiles": 104831.33006544113
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 2,
+    "gastoCopMiles": 1041755.164851348
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 2,
+    "gastoCopMiles": 1362890.065684258
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 2,
+    "gastoCopMiles": 327812.9079071486
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 2,
+    "gastoCopMiles": 429832.8342552266
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 2,
+    "gastoCopMiles": 508023.8989326514
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 2,
+    "gastoCopMiles": 26947.133035638984
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 2,
+    "gastoCopMiles": 52447.31515137843
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 2,
+    "gastoCopMiles": 30144.589453405817
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 3,
+    "gastoCopMiles": 1363355.513392148
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 3,
+    "gastoCopMiles": 101201.09103426072
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 3,
+    "gastoCopMiles": 1083372.5741425187
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 3,
+    "gastoCopMiles": 1356847.1537742415
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 3,
+    "gastoCopMiles": 312827.19445458497
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 3,
+    "gastoCopMiles": 407826.3278685432
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 3,
+    "gastoCopMiles": 551816.1836275988
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 3,
+    "gastoCopMiles": 25233.62716399648
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 3,
+    "gastoCopMiles": 52865.05854850171
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 3,
+    "gastoCopMiles": 33213.40718410098
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 4,
+    "gastoCopMiles": 1355854.9407995543
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 4,
+    "gastoCopMiles": 101048.22296015148
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 4,
+    "gastoCopMiles": 1064607.6511304015
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 4,
+    "gastoCopMiles": 1314974.0313040717
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 4,
+    "gastoCopMiles": 343480.6495808297
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 4,
+    "gastoCopMiles": 438937.7645457765
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 4,
+    "gastoCopMiles": 514912.2849909436
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 4,
+    "gastoCopMiles": 26099.064881628463
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 4,
+    "gastoCopMiles": 55417.55474903346
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 4,
+    "gastoCopMiles": 31321.408931970116
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 5,
+    "gastoCopMiles": 1374790.8808506683
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 5,
+    "gastoCopMiles": 108675.68112810896
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 5,
+    "gastoCopMiles": 1098905.1954236403
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 5,
+    "gastoCopMiles": 1380597.9670693357
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 5,
+    "gastoCopMiles": 341856.0656669716
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 5,
+    "gastoCopMiles": 403714.3715341479
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 5,
+    "gastoCopMiles": 527227.241154025
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 5,
+    "gastoCopMiles": 25860.4429967195
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 5,
+    "gastoCopMiles": 51955.82009687662
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 5,
+    "gastoCopMiles": 32437.8865040739
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 6,
+    "gastoCopMiles": 1339156.9460597737
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 6,
+    "gastoCopMiles": 102991.40329092438
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 6,
+    "gastoCopMiles": 1097320.5928218975
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 6,
+    "gastoCopMiles": 1348289.2461021433
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 6,
+    "gastoCopMiles": 329741.8778501144
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 6,
+    "gastoCopMiles": 416159.8817434799
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 6,
+    "gastoCopMiles": 502346.4092256978
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 6,
+    "gastoCopMiles": 26237.649135290205
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 6,
+    "gastoCopMiles": 50219.915825984666
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 6,
+    "gastoCopMiles": 30666.886237605453
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 7,
+    "gastoCopMiles": 1405975.6288801236
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 7,
+    "gastoCopMiles": 102573.58517397854
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 7,
+    "gastoCopMiles": 1056571.6146881988
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 7,
+    "gastoCopMiles": 1327702.6369537462
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 7,
+    "gastoCopMiles": 340215.65672743064
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 7,
+    "gastoCopMiles": 443190.6238606369
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 7,
+    "gastoCopMiles": 529041.1029730943
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 7,
+    "gastoCopMiles": 25127.13236031619
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 7,
+    "gastoCopMiles": 53239.465902613636
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 7,
+    "gastoCopMiles": 32812.52964713179
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 8,
+    "gastoCopMiles": 1407398.0124378246
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 8,
+    "gastoCopMiles": 106659.73868368243
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 8,
+    "gastoCopMiles": 1030289.9776723883
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 8,
+    "gastoCopMiles": 1435231.7652567294
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 8,
+    "gastoCopMiles": 322997.1870748075
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 8,
+    "gastoCopMiles": 430513.7778614234
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 8,
+    "gastoCopMiles": 531008.6080234622
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 8,
+    "gastoCopMiles": 26854.16493603188
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 8,
+    "gastoCopMiles": 51035.39095163028
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 8,
+    "gastoCopMiles": 30276.4637878176
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 9,
+    "gastoCopMiles": 1302330.7228403315
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 9,
+    "gastoCopMiles": 106879.17088283043
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 9,
+    "gastoCopMiles": 1019586.8013419474
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 9,
+    "gastoCopMiles": 1383293.0823612104
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 9,
+    "gastoCopMiles": 315806.04623415245
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 9,
+    "gastoCopMiles": 413197.22273999103
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 9,
+    "gastoCopMiles": 526118.0562646898
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 9,
+    "gastoCopMiles": 27465.810217676102
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 9,
+    "gastoCopMiles": 55418.33021777857
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 9,
+    "gastoCopMiles": 30664.054785087534
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 10,
+    "gastoCopMiles": 1411239.953005116
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 10,
+    "gastoCopMiles": 108565.35402938203
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 10,
+    "gastoCopMiles": 1037907.0021502652
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 10,
+    "gastoCopMiles": 1343285.251641985
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 10,
+    "gastoCopMiles": 321984.12784703413
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 10,
+    "gastoCopMiles": 423061.9099525596
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 10,
+    "gastoCopMiles": 513644.2306082181
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 10,
+    "gastoCopMiles": 27121.094505995316
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 10,
+    "gastoCopMiles": 50526.48503074425
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 10,
+    "gastoCopMiles": 31188.973738137705
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 11,
+    "gastoCopMiles": 1398069.2436642577
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 11,
+    "gastoCopMiles": 101769.34031996914
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 11,
+    "gastoCopMiles": 1089796.367360799
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 11,
+    "gastoCopMiles": 1435589.8737419827
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 11,
+    "gastoCopMiles": 324471.19965512154
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 11,
+    "gastoCopMiles": 417074.06841545267
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 11,
+    "gastoCopMiles": 538327.3758243177
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2020,
+    "mes": 11,
+    "gastoCopMiles": 25608.06523435014
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "PEREIRA",
+    "anio": 2020,
+    "mes": 11,
+    "gastoCopMiles": 51666.584293098764
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 11,
+    "gastoCopMiles": 32123.096847222685
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 12,
+    "gastoCopMiles": 1335212.6585508082
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 12,
+    "gastoCopMiles": 105747.42920441715
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 12,
+    "gastoCopMiles": 1013245.6283877429
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 12,
+    "gastoCopMiles": 1305313.1854147408
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 12,
+    "gastoCopMiles": 324235.44303017185
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BQUILLA",
+    "anio": 2020,
+    "mes": 12,
+    "gastoCopMiles": 422104.30317437736
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 12,
+    "gastoCopMiles": 535030.1283551365
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BMANGA",
+    "anio": 2020,
+    "mes": 12,
+    "gastoCopMiles": 25389.827108467933
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BOGOTA",
+    "anio": 2020,
+    "mes": 12,
+    "gastoCopMiles": 55202.52065149522
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2020,
+    "mes": 12,
+    "gastoCopMiles": 33009.443271428805
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 1,
+    "gastoCopMiles": 1440446.27292636
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 1,
+    "gastoCopMiles": 108401.02257999899
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 1,
+    "gastoCopMiles": 1104332.8313246893
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 1,
+    "gastoCopMiles": 1466200.585630191
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 1,
+    "gastoCopMiles": 334257.0389819205
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 1,
+    "gastoCopMiles": 462838.3377041755
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 1,
+    "gastoCopMiles": 578761.7171591673
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 1,
+    "gastoCopMiles": 28201.626911039853
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 1,
+    "gastoCopMiles": 56198.643997003324
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 1,
+    "gastoCopMiles": 33042.28181445212
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 2,
+    "gastoCopMiles": 1464017.3766166552
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 2,
+    "gastoCopMiles": 111522.29224488966
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 2,
+    "gastoCopMiles": 1107991.4927807369
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 2,
+    "gastoCopMiles": 1428365.7081932926
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 2,
+    "gastoCopMiles": 334706.26890896354
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 2,
+    "gastoCopMiles": 460413.08489374554
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 2,
+    "gastoCopMiles": 559264.6344495079
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 2,
+    "gastoCopMiles": 27472.072167910643
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 2,
+    "gastoCopMiles": 56149.88719062415
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 2,
+    "gastoCopMiles": 33749.34321811256
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 3,
+    "gastoCopMiles": 1495446.8511977603
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 3,
+    "gastoCopMiles": 107321.66711194042
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 3,
+    "gastoCopMiles": 1108799.519381959
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 3,
+    "gastoCopMiles": 1459713.6717238794
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 3,
+    "gastoCopMiles": 354490.5586844529
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 3,
+    "gastoCopMiles": 459883.36726213153
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 3,
+    "gastoCopMiles": 534529.6836041256
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 3,
+    "gastoCopMiles": 29124.316041506467
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 3,
+    "gastoCopMiles": 55027.06620342485
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 3,
+    "gastoCopMiles": 33812.19434682626
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 4,
+    "gastoCopMiles": 1382683.8849535757
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 4,
+    "gastoCopMiles": 112259.70020651698
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 4,
+    "gastoCopMiles": 1121854.8494953138
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 4,
+    "gastoCopMiles": 1414390.5756432812
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 4,
+    "gastoCopMiles": 342890.59215586475
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 4,
+    "gastoCopMiles": 438625.4563872197
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 4,
+    "gastoCopMiles": 549544.3562580725
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 4,
+    "gastoCopMiles": 27336.374970211516
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 4,
+    "gastoCopMiles": 54147.713902687276
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 4,
+    "gastoCopMiles": 33875.79065140765
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 5,
+    "gastoCopMiles": 1427769.9299908115
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 5,
+    "gastoCopMiles": 117208.28480787012
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 5,
+    "gastoCopMiles": 1155221.5493588445
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 5,
+    "gastoCopMiles": 1513613.4784282374
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 5,
+    "gastoCopMiles": 339550.43850075186
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 5,
+    "gastoCopMiles": 467727.90729012166
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 5,
+    "gastoCopMiles": 539505.4003837826
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 5,
+    "gastoCopMiles": 29150.357426048173
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 5,
+    "gastoCopMiles": 56995.85838038676
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 5,
+    "gastoCopMiles": 34328.38455143563
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 6,
+    "gastoCopMiles": 1495672.6528849718
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 6,
+    "gastoCopMiles": 114538.30491714727
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 6,
+    "gastoCopMiles": 1127328.0938668777
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 6,
+    "gastoCopMiles": 1386831.3531849168
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 6,
+    "gastoCopMiles": 348610.2565363911
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 6,
+    "gastoCopMiles": 434383.6392545361
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 6,
+    "gastoCopMiles": 568202.9937579763
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 6,
+    "gastoCopMiles": 29257.630295928273
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 6,
+    "gastoCopMiles": 54313.794892202975
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 6,
+    "gastoCopMiles": 33943.47525804126
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 7,
+    "gastoCopMiles": 1487658.3723656922
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 7,
+    "gastoCopMiles": 117210.17206547894
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 7,
+    "gastoCopMiles": 1126653.6573892306
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 7,
+    "gastoCopMiles": 1514105.0625926494
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 7,
+    "gastoCopMiles": 359625.3672296595
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 7,
+    "gastoCopMiles": 439742.985583224
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 7,
+    "gastoCopMiles": 554389.7891371937
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 7,
+    "gastoCopMiles": 27138.07183634294
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 7,
+    "gastoCopMiles": 53323.17674473697
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 7,
+    "gastoCopMiles": 32865.00424398532
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 8,
+    "gastoCopMiles": 1448016.4951180373
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 8,
+    "gastoCopMiles": 116242.7557915541
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 8,
+    "gastoCopMiles": 1103341.4382978836
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 8,
+    "gastoCopMiles": 1388462.9509217623
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 8,
+    "gastoCopMiles": 333985.2698956116
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 8,
+    "gastoCopMiles": 436324.21668587264
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 8,
+    "gastoCopMiles": 539514.741999994
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 8,
+    "gastoCopMiles": 28270.951837366734
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 8,
+    "gastoCopMiles": 55821.41199603245
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 8,
+    "gastoCopMiles": 33053.12760616141
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 9,
+    "gastoCopMiles": 1511013.4579314883
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 9,
+    "gastoCopMiles": 111855.13557673404
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 9,
+    "gastoCopMiles": 1071377.3827687688
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 9,
+    "gastoCopMiles": 1426926.2091895167
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 9,
+    "gastoCopMiles": 338943.2528194956
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 9,
+    "gastoCopMiles": 439161.4552759823
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 9,
+    "gastoCopMiles": 566351.0637386715
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 9,
+    "gastoCopMiles": 26857.60948886576
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 9,
+    "gastoCopMiles": 57750.93872126456
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 9,
+    "gastoCopMiles": 34884.79873131997
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 10,
+    "gastoCopMiles": 1409226.3661769738
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 10,
+    "gastoCopMiles": 116646.30010577984
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 10,
+    "gastoCopMiles": 1154472.4162907163
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 10,
+    "gastoCopMiles": 1440746.8924616196
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 10,
+    "gastoCopMiles": 364422.44183210353
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 10,
+    "gastoCopMiles": 427157.4688023659
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 10,
+    "gastoCopMiles": 541380.6270774718
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 10,
+    "gastoCopMiles": 27665.4605869437
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 10,
+    "gastoCopMiles": 55051.72079635712
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 10,
+    "gastoCopMiles": 35284.30067045917
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 11,
+    "gastoCopMiles": 1512853.3142471972
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 11,
+    "gastoCopMiles": 117262.04075684257
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 11,
+    "gastoCopMiles": 1155128.310673028
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 11,
+    "gastoCopMiles": 1432604.819579244
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 11,
+    "gastoCopMiles": 360437.38041345996
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BQUILLA",
+    "anio": 2021,
+    "mes": 11,
+    "gastoCopMiles": 435891.91934740456
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 11,
+    "gastoCopMiles": 584224.2416326444
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 11,
+    "gastoCopMiles": 27498.916939464318
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 11,
+    "gastoCopMiles": 53629.40079826193
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 11,
+    "gastoCopMiles": 33716.37651274804
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2021,
+    "mes": 12,
+    "gastoCopMiles": 1436041.815382545
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 12,
+    "gastoCopMiles": 116645.30106921385
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 12,
+    "gastoCopMiles": 1161139.65382416
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 12,
+    "gastoCopMiles": 1496243.8783990282
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "CALI",
+    "anio": 2021,
+    "mes": 12,
+    "gastoCopMiles": 347377.3860477447
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 12,
+    "gastoCopMiles": 461732.95977353235
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "MEDELLIN",
+    "anio": 2021,
+    "mes": 12,
+    "gastoCopMiles": 582018.757627993
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 12,
+    "gastoCopMiles": 28997.53187931111
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BMANGA",
+    "anio": 2021,
+    "mes": 12,
+    "gastoCopMiles": 55047.02749942496
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BOGOTA",
+    "anio": 2021,
+    "mes": 12,
+    "gastoCopMiles": 32365.56640630401
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 1,
+    "gastoCopMiles": 1730276.5847542207
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 1,
+    "gastoCopMiles": 136910.59127991737
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 1,
+    "gastoCopMiles": 1377988.5062499964
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 1,
+    "gastoCopMiles": 1808370.374326069
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 1,
+    "gastoCopMiles": 409251.3882144303
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 1,
+    "gastoCopMiles": 527032.5313548722
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 1,
+    "gastoCopMiles": 695260.6575148358
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 1,
+    "gastoCopMiles": 33077.221320353994
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 1,
+    "gastoCopMiles": 68093.25981485621
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 1,
+    "gastoCopMiles": 43376.36208023517
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 2,
+    "gastoCopMiles": 1783940.432156395
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 2,
+    "gastoCopMiles": 138134.7868774348
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 2,
+    "gastoCopMiles": 1353655.9330407681
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 2,
+    "gastoCopMiles": 1723445.5095117043
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 2,
+    "gastoCopMiles": 420633.8067277634
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 2,
+    "gastoCopMiles": 526541.854274678
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 2,
+    "gastoCopMiles": 657141.7707913797
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 2,
+    "gastoCopMiles": 34276.08766504459
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 2,
+    "gastoCopMiles": 71500.570013085
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 2,
+    "gastoCopMiles": 39971.252094230134
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 3,
+    "gastoCopMiles": 1847005.4545057546
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 3,
+    "gastoCopMiles": 134441.18355203533
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 3,
+    "gastoCopMiles": 1354468.4124363246
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 3,
+    "gastoCopMiles": 1784396.7473905259
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 3,
+    "gastoCopMiles": 439559.451922428
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 3,
+    "gastoCopMiles": 574020.7546491495
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 3,
+    "gastoCopMiles": 666549.5595102088
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 3,
+    "gastoCopMiles": 35741.28929783262
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 3,
+    "gastoCopMiles": 66734.05011721373
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 3,
+    "gastoCopMiles": 41557.85302267332
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 4,
+    "gastoCopMiles": 1753848.7104255285
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 4,
+    "gastoCopMiles": 134734.62135619854
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 4,
+    "gastoCopMiles": 1341274.3302796152
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 4,
+    "gastoCopMiles": 1753838.4783398425
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 4,
+    "gastoCopMiles": 418128.4493946868
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 4,
+    "gastoCopMiles": 550313.6068217744
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 4,
+    "gastoCopMiles": 706457.1634966778
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 4,
+    "gastoCopMiles": 32753.77733660536
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 4,
+    "gastoCopMiles": 69772.59079612946
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 4,
+    "gastoCopMiles": 43069.81910098998
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 5,
+    "gastoCopMiles": 1730688.5715272406
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 5,
+    "gastoCopMiles": 140952.33858652873
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 5,
+    "gastoCopMiles": 1381949.3743482274
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 5,
+    "gastoCopMiles": 1814360.1416770127
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 5,
+    "gastoCopMiles": 415072.91479826305
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 5,
+    "gastoCopMiles": 555696.935396799
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 5,
+    "gastoCopMiles": 717266.1589988761
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 5,
+    "gastoCopMiles": 34330.8323981465
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 5,
+    "gastoCopMiles": 69121.7382485881
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 5,
+    "gastoCopMiles": 42600.39290799793
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 6,
+    "gastoCopMiles": 1804990.44516182
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 6,
+    "gastoCopMiles": 136660.79680442522
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 6,
+    "gastoCopMiles": 1445708.902818835
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 6,
+    "gastoCopMiles": 1870035.0927677078
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 6,
+    "gastoCopMiles": 420745.8202664896
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 6,
+    "gastoCopMiles": 557489.4179361342
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 6,
+    "gastoCopMiles": 700879.5836401598
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 6,
+    "gastoCopMiles": 34227.35789383647
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 6,
+    "gastoCopMiles": 67483.00849789311
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 6,
+    "gastoCopMiles": 40834.52519458955
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 7,
+    "gastoCopMiles": 1802093.7669358146
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 7,
+    "gastoCopMiles": 135166.35085290152
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 7,
+    "gastoCopMiles": 1428096.028427609
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 7,
+    "gastoCopMiles": 1822600.1141553686
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 7,
+    "gastoCopMiles": 447189.2653783405
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 7,
+    "gastoCopMiles": 559623.2102579951
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 7,
+    "gastoCopMiles": 683515.3878804523
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 7,
+    "gastoCopMiles": 35140.91884287617
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 7,
+    "gastoCopMiles": 69751.67392363146
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 7,
+    "gastoCopMiles": 42510.52111015566
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 8,
+    "gastoCopMiles": 1836428.2910591664
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 8,
+    "gastoCopMiles": 138839.4803902232
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 8,
+    "gastoCopMiles": 1433926.4395455436
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 8,
+    "gastoCopMiles": 1755214.1385370914
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 8,
+    "gastoCopMiles": 430322.94816998456
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 8,
+    "gastoCopMiles": 554640.648877449
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 8,
+    "gastoCopMiles": 659734.7493338838
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 8,
+    "gastoCopMiles": 35944.87313391852
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 8,
+    "gastoCopMiles": 67517.20919555657
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 8,
+    "gastoCopMiles": 40347.861284641964
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 9,
+    "gastoCopMiles": 1720705.1757730034
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 9,
+    "gastoCopMiles": 135089.48519230474
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 9,
+    "gastoCopMiles": 1315553.139834866
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 9,
+    "gastoCopMiles": 1854074.2299106147
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 9,
+    "gastoCopMiles": 446501.9094744968
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 9,
+    "gastoCopMiles": 538033.3437246291
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 9,
+    "gastoCopMiles": 698707.2463003541
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 9,
+    "gastoCopMiles": 33352.7987459627
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 9,
+    "gastoCopMiles": 71503.02532507466
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 9,
+    "gastoCopMiles": 41300.76437700486
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "CALI",
+    "anio": 2022,
+    "mes": 10,
+    "gastoCopMiles": 1762310.9166271803
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 10,
+    "gastoCopMiles": 132225.0755939163
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 10,
+    "gastoCopMiles": 1375103.2002453376
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 10,
+    "gastoCopMiles": 1775839.6635954927
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 10,
+    "gastoCopMiles": 415742.53489085793
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 10,
+    "gastoCopMiles": 528725.9068795075
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 10,
+    "gastoCopMiles": 656128.7738640341
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 10,
+    "gastoCopMiles": 34877.92509244654
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 10,
+    "gastoCopMiles": 70646.72649238215
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 10,
+    "gastoCopMiles": 40856.3273137389
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 11,
+    "gastoCopMiles": 1786172.7742291945
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 11,
+    "gastoCopMiles": 142575.59553464025
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 11,
+    "gastoCopMiles": 1438511.1375047164
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 11,
+    "gastoCopMiles": 1703226.7104534423
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 11,
+    "gastoCopMiles": 422302.4187069648
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2022,
+    "mes": 11,
+    "gastoCopMiles": 524278.53158819454
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 11,
+    "gastoCopMiles": 710281.6155261613
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 11,
+    "gastoCopMiles": 35952.267892774275
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 11,
+    "gastoCopMiles": 71843.02121655211
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 11,
+    "gastoCopMiles": 40788.53877878474
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 12,
+    "gastoCopMiles": 1711455.6503450172
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 12,
+    "gastoCopMiles": 137174.1595622566
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 12,
+    "gastoCopMiles": 1331444.9321541386
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "PEREIRA",
+    "anio": 2022,
+    "mes": 12,
+    "gastoCopMiles": 1737465.0600998437
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 12,
+    "gastoCopMiles": 439151.09653836215
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BMANGA",
+    "anio": 2022,
+    "mes": 12,
+    "gastoCopMiles": 578285.8987364325
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BQUILLA",
+    "anio": 2022,
+    "mes": 12,
+    "gastoCopMiles": 715003.7743189561
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 12,
+    "gastoCopMiles": 34305.308405584474
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 12,
+    "gastoCopMiles": 70596.14508821495
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2022,
+    "mes": 12,
+    "gastoCopMiles": 42167.63054623735
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 1,
+    "gastoCopMiles": 1940548.8608210662
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 1,
+    "gastoCopMiles": 153135.9426432383
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 1,
+    "gastoCopMiles": 1536658.0421497556
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 1,
+    "gastoCopMiles": 1844050.850441545
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 1,
+    "gastoCopMiles": 441050.04061920306
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 1,
+    "gastoCopMiles": 621281.6647023326
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 1,
+    "gastoCopMiles": 721045.8883254576
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 1,
+    "gastoCopMiles": 37005.72943974189
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 1,
+    "gastoCopMiles": 77635.29578314569
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 1,
+    "gastoCopMiles": 43618.63096186366
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 2,
+    "gastoCopMiles": 1998012.4057179505
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 2,
+    "gastoCopMiles": 145079.1074940935
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 2,
+    "gastoCopMiles": 1434578.5966745203
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 2,
+    "gastoCopMiles": 1975073.4536875365
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 2,
+    "gastoCopMiles": 474025.92334190523
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 2,
+    "gastoCopMiles": 587143.3554404496
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 2,
+    "gastoCopMiles": 776953.494083481
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 2,
+    "gastoCopMiles": 37379.07109637456
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 2,
+    "gastoCopMiles": 72992.44677751436
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 2,
+    "gastoCopMiles": 42547.1959760964
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 3,
+    "gastoCopMiles": 1953800.9047905065
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 3,
+    "gastoCopMiles": 145858.2552264431
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 3,
+    "gastoCopMiles": 1526492.9645513755
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 3,
+    "gastoCopMiles": 1946605.5249862615
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 3,
+    "gastoCopMiles": 473936.92155161273
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 3,
+    "gastoCopMiles": 605716.6194934202
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 3,
+    "gastoCopMiles": 713963.6294412725
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 3,
+    "gastoCopMiles": 37644.04562133709
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 3,
+    "gastoCopMiles": 75308.11619826872
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 3,
+    "gastoCopMiles": 42664.88006421792
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 4,
+    "gastoCopMiles": 1994987.2513386807
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 4,
+    "gastoCopMiles": 145600.83636637003
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 4,
+    "gastoCopMiles": 1452042.3182288762
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 4,
+    "gastoCopMiles": 1861927.6540427308
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 4,
+    "gastoCopMiles": 438357.68519675883
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 4,
+    "gastoCopMiles": 596817.8326497378
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 4,
+    "gastoCopMiles": 763591.9036999152
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 4,
+    "gastoCopMiles": 36418.076782058764
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 4,
+    "gastoCopMiles": 71657.54691483724
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 4,
+    "gastoCopMiles": 43133.440530731394
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 5,
+    "gastoCopMiles": 1878953.3763013259
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 5,
+    "gastoCopMiles": 150545.04870943894
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 5,
+    "gastoCopMiles": 1533790.4170212864
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 5,
+    "gastoCopMiles": 1942937.592380805
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 5,
+    "gastoCopMiles": 473987.387773533
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 5,
+    "gastoCopMiles": 596123.5562527779
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 5,
+    "gastoCopMiles": 735302.0187540937
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 5,
+    "gastoCopMiles": 37961.27965588282
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 5,
+    "gastoCopMiles": 71624.35407261478
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 5,
+    "gastoCopMiles": 45082.428450918625
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 6,
+    "gastoCopMiles": 1846772.0987942014
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 6,
+    "gastoCopMiles": 141237.17488751584
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 6,
+    "gastoCopMiles": 1461355.998826044
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 6,
+    "gastoCopMiles": 2007656.7262229521
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 6,
+    "gastoCopMiles": 465272.7041550611
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 6,
+    "gastoCopMiles": 589656.5574920418
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 6,
+    "gastoCopMiles": 766850.3183979575
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 6,
+    "gastoCopMiles": 37363.68561500666
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 6,
+    "gastoCopMiles": 74942.29135763217
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 6,
+    "gastoCopMiles": 44762.50451834162
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 7,
+    "gastoCopMiles": 1900644.515093133
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 7,
+    "gastoCopMiles": 145064.61372239594
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 7,
+    "gastoCopMiles": 1427536.5547081216
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 7,
+    "gastoCopMiles": 1859784.585947194
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 7,
+    "gastoCopMiles": 480640.59494049306
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 7,
+    "gastoCopMiles": 571355.8713066797
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 7,
+    "gastoCopMiles": 710066.0485288966
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 7,
+    "gastoCopMiles": 37908.41366096262
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 7,
+    "gastoCopMiles": 73423.0200245668
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 7,
+    "gastoCopMiles": 43826.80666226631
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 8,
+    "gastoCopMiles": 1847247.1175507212
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 8,
+    "gastoCopMiles": 145977.14059379266
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 8,
+    "gastoCopMiles": 1440975.310944173
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 8,
+    "gastoCopMiles": 1866219.1108091099
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 8,
+    "gastoCopMiles": 459644.21563118155
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 8,
+    "gastoCopMiles": 590615.8204263059
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 8,
+    "gastoCopMiles": 744595.5327890792
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 8,
+    "gastoCopMiles": 36400.50218476028
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 8,
+    "gastoCopMiles": 71928.9005566235
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 8,
+    "gastoCopMiles": 45613.966973527386
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 9,
+    "gastoCopMiles": 1962214.748055116
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 9,
+    "gastoCopMiles": 150091.12803141391
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 9,
+    "gastoCopMiles": 1548476.8054452285
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 9,
+    "gastoCopMiles": 1924603.24788683
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 9,
+    "gastoCopMiles": 458288.85129864945
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 9,
+    "gastoCopMiles": 582112.5933272829
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 9,
+    "gastoCopMiles": 743544.7089166159
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 9,
+    "gastoCopMiles": 35182.0568005941
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 9,
+    "gastoCopMiles": 70547.00337501364
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 9,
+    "gastoCopMiles": 46397.84003514872
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 10,
+    "gastoCopMiles": 1981873.0659272515
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 10,
+    "gastoCopMiles": 151093.12700567738
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 10,
+    "gastoCopMiles": 1486062.574113508
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 10,
+    "gastoCopMiles": 1983518.3709200586
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 10,
+    "gastoCopMiles": 464568.82178324205
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 10,
+    "gastoCopMiles": 573707.9718802999
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 10,
+    "gastoCopMiles": 737539.6760865838
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 10,
+    "gastoCopMiles": 37932.51631804035
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 10,
+    "gastoCopMiles": 75545.93004491087
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 10,
+    "gastoCopMiles": 42689.45841007473
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 11,
+    "gastoCopMiles": 1962626.6645563461
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 11,
+    "gastoCopMiles": 148030.12623061467
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 11,
+    "gastoCopMiles": 1494318.639065849
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "BOGOTA",
+    "anio": 2023,
+    "mes": 11,
+    "gastoCopMiles": 1950277.3303696932
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 11,
+    "gastoCopMiles": 441145.6465271887
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 11,
+    "gastoCopMiles": 595156.3256138066
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 11,
+    "gastoCopMiles": 759533.900474237
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 11,
+    "gastoCopMiles": 36555.80610528916
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "BQUILLA",
+    "anio": 2023,
+    "mes": 11,
+    "gastoCopMiles": 73263.00633865036
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 11,
+    "gastoCopMiles": 46214.644873962025
+  },
+  {
+    "etapa": "Primario",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 12,
+    "gastoCopMiles": 1984207.1412431402
+  },
+  {
+    "etapa": "Interalmacen",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 12,
+    "gastoCopMiles": 150431.9078400432
+  },
+  {
+    "etapa": "Preventa",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 12,
+    "gastoCopMiles": 1535281.6355974101
+  },
+  {
+    "etapa": "Otros",
+    "nodo": "PEREIRA",
+    "anio": 2023,
+    "mes": 12,
+    "gastoCopMiles": 1860270.7783750503
+  },
+  {
+    "etapa": "Directo",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 12,
+    "gastoCopMiles": 474031.33777020045
+  },
+  {
+    "etapa": "Almacenamiento_Arriendo",
+    "nodo": "BMANGA",
+    "anio": 2023,
+    "mes": 12,
+    "gastoCopMiles": 616166.7391696805
+  },
+  {
+    "etapa": "Almacenamiento_MO",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 12,
+    "gastoCopMiles": 709943.497683624
+  },
+  {
+    "etapa": "Almacenamiento_Sumin",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 12,
+    "gastoCopMiles": 38297.49112047295
+  },
+  {
+    "etapa": "Almacenamiento_Equipos",
+    "nodo": "MEDELLIN",
+    "anio": 2023,
+    "mes": 12,
+    "gastoCopMiles": 72088.36145182747
+  },
+  {
+    "etapa": "Almacenamiento_Serv",
+    "nodo": "CALI",
+    "anio": 2023,
+    "mes": 12,
+    "gastoCopMiles": 45616.65452202769
+  }
+]

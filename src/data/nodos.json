@@ -1,0 +1,22 @@
+[
+  {"nodo":"MEDELLIN",    "lat":6.244,  "lng":-75.574, "tipo":"Distrito"},
+  {"nodo":"BOGOTA",      "lat":4.711,  "lng":-74.072, "tipo":"Distrito"},
+  {"nodo":"BQUILLA",     "lat":10.963, "lng":-74.796, "tipo":"Distrito"},
+  {"nodo":"CALI",        "lat":3.451,  "lng":-76.532, "tipo":"Distrito"},
+  {"nodo":"BMANGA",      "lat":7.119,  "lng":-73.123, "tipo":"Distrito"},
+  {"nodo":"PEREIRA",     "lat":4.814,  "lng":-75.696, "tipo":"Distrito"},
+  {"nodo":"MONTERIA",    "lat":8.757,  "lng":-75.881, "tipo":"Agencia"},
+  {"nodo":"APARTADO",    "lat":7.880,  "lng":-76.627, "tipo":"Agencia"},
+  {"nodo":"SINCELEJO",   "lat":9.304,  "lng":-75.398, "tipo":"Agencia"},
+  {"nodo":"DUITAMA",     "lat":5.827,  "lng":-73.034, "tipo":"Agencia"},
+  {"nodo":"VILLAVICENCIO","lat":4.142, "lng":-73.626, "tipo":"Agencia"},
+  {"nodo":"GIRARDOT",    "lat":4.303,  "lng":-74.802, "tipo":"Agencia"},
+  {"nodo":"NEIVA",       "lat":2.935,  "lng":-75.282, "tipo":"Agencia"},
+  {"nodo":"CARTAGENA",   "lat":10.391, "lng":-75.479, "tipo":"Agencia"},
+  {"nodo":"SANTA MARTA", "lat":11.240, "lng":-74.199, "tipo":"Agencia"},
+  {"nodo":"VALLEDUPAR",  "lat":10.479, "lng":-73.250, "tipo":"Agencia"},
+  {"nodo":"CUCUTA",      "lat":7.889,  "lng":-72.497, "tipo":"Agencia"},
+  {"nodo":"PASTO",       "lat":1.214,  "lng":-77.279, "tipo":"Agencia"},
+  {"nodo":"TOCANCIPA",   "lat":4.965,  "lng":-73.911, "tipo":"Planta"},
+  {"nodo":"BOGOTA_PLANTA","lat":4.648, "lng":-74.097, "tipo":"Planta"}
+]
